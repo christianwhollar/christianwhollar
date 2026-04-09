@@ -39,7 +39,7 @@ Software engineer working at the intersection of **AI, machine learning, softwar
   M.S. in Computer Science, Concentration in Computational Systems
 
 - **Lafayette College**  
-  B.S. in Mechanical Engineering, Minor in Mathematics# Christian Hollar
+  B.S. in Mechanical Engineering, Minor in Mathematics
 
 ## What I Work On
 - Agentic AI systems
