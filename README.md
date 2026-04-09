@@ -18,6 +18,18 @@ Software engineer working at the intersection of **AI, machine learning, softwar
 - Supported V-22, CH-47, MH-139, and AH-64 flight control and test efforts
 - Worked across piloted simulation, live flight testing, telemetry support, and control law analysis
 
+### NASA | Aerospace Engineering Intern
+- Conducted wind tunnel and flight testing for the uPSP team
+- Developed a Python-based visualization tool for aerodynamic parameter studies in collaboration with cross-functional engineering teams
+
+### nCino | Software Engineering Intern
+- Contributed to a cloud-based core banking platform
+- Supported product features and analytics within an Agile, Salesforce-driven environment
+
+### Morgan Stanley | Wealth Management Intern
+- Supported portfolio reviews, client proposals, and investment strategy discussions
+- Built exposure to wealth management workflows and high-net-worth client service
+
 ## Education
 
 - **Duke University**  
