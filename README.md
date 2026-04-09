@@ -12,7 +12,6 @@ Software engineer working at the intersection of **AI, machine learning, softwar
 ### Boeing | Software Engineer, Avionics Software Design
 - Developed Python-based automated end-to-end test procedures for the V-22 Flight Control System Redesign Program
 - Wrote MATLAB and C-based test logic for unit verification and coverage analytics in RTOS-based lab environments
-- Active Secret security clearance
 
 ### Boeing | Guidance, Navigation, & Control Engineer
 - Supported V-22, CH-47, MH-139, and AH-64 flight control and test efforts
